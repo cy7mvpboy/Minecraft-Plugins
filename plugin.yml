@@ -1,0 +1,7 @@
+name: RandomItemPvP
+version: '1.0'
+main: org.main.randomItemPvP.RandomItemPvP
+api-version: '1.21'
+commands:
+  rip:
+    description: Random Item PvP commands
